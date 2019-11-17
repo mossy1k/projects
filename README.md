@@ -1,6 +1,6 @@
 #  Hello, this is an EcmaScript Linting tool, porpularly known as ESlint, used to spot out errors in your javascript code. 
-#  A lot of people complained that they have been finding it dificult to set it up with visual studio code editor so i felt i should share it.
-# This linting project is coupled with prettier, a formatting tool for javascript. All is just to ensure script integrity 
+  A lot of people complained that they have been finding it dificult to set it up with visual studio code editor so i felt i should share it.
+ This linting project is coupled with prettier, a formatting tool for javascript. All is just to ensure script integrity 
 and cleaner codes.
 
 Usage:
